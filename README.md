@@ -19,3 +19,5 @@ To run the script you should do the following:
 2: set your working directory to src by typing the following: "cd cds-language/src" (without quotations).
 
 3: Then type: "python3 collocation.py ../data/100_english_novels/corpus {your_keyword} {your_window_size}" with your own keyword and window_size (without quotations and brackets).
+
+4: After running the script there should be a .csv-file in your src-folder.
